@@ -1,12 +1,6 @@
 {
   "mods": [
     {
-      "name": "oculus",
-      "version": "mc1.19.2",
-      "filename": "oculus-mc1.19.2.jar",
-      "url": "https://raw.githubusercontent.com/KuraOP/minecraftmods-upload/main/mods/oculus-mc1.19.2.jar"
-    },
-    {
       "name": "rubidium",
       "version": "mc1.19.2",
       "filename": "rubidium-mc1.19.2.jar",
