@@ -11,6 +11,12 @@
       "version": "mc1.19.2",
       "filename": "oculus-mc1.19.2.jar",
       "url": "https://raw.githubusercontent.com/KuraOP/minecraftmods-upload/main/mods/oculus-mc1.19.2.jar"
+    },
+    {
+      "name": "Patchouli",
+      "version": "1.19.2",
+      "filename": "Patchouli-1.19.2.jar",
+      "url": "https://raw.githubusercontent.com/KuraOP/minecraftmods-upload/main/mods/Patchouli-1.19.2.jar"
     }
   ]
 }
