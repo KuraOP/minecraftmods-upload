@@ -161,6 +161,12 @@
       "version": "forge",
       "filename": "BiomesOPlenty-forge.jar",
       "url": "https://raw.githubusercontent.com/KuraOP/minecraftmods-upload/main/mods/BiomesOPlenty-forge.jar"
+    },
+    {
+      "name": "kotlinforforge",
+      "version": "4.11.0",
+      "filename": "kotlinforforge-4.11.0.jar",
+      "url": "https://raw.githubusercontent.com/KuraOP/minecraftmods-upload/main/mods/kotlinforforge-4.11.0.jar"
     }
   ]
 }
