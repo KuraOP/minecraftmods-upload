@@ -1,3 +1,178 @@
 {
-  "mods": []
+  "mods": [
+    {
+      "name": "adorabuild",
+      "version": "structures",
+      "filename": "adorabuild-structures.jar",
+      "url": "https://raw.githubusercontent.com/KuraOP/minecraftmods-upload/main/mods/adorabuild-structures.jar"
+    },
+    {
+      "name": "GlitchCore",
+      "version": "forge",
+      "filename": "GlitchCore-forge.jar",
+      "url": "https://raw.githubusercontent.com/KuraOP/minecraftmods-upload/main/mods/GlitchCore-forge.jar"
+    },
+    {
+      "name": "SereneSeasons",
+      "version": "forge",
+      "filename": "SereneSeasons-forge.jar",
+      "url": "https://raw.githubusercontent.com/KuraOP/minecraftmods-upload/main/mods/SereneSeasons-forge.jar"
+    },
+    {
+      "name": "BEB",
+      "version": "FORGE",
+      "filename": "BEB-FORGE.jar",
+      "url": "https://raw.githubusercontent.com/KuraOP/minecraftmods-upload/main/mods/BEB-FORGE.jar"
+    },
+    {
+      "name": "twilightforest",
+      "version": "1.20.1",
+      "filename": "twilightforest-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/KuraOP/minecraftmods-upload/main/mods/twilightforest-1.20.1.jar"
+    },
+    {
+      "name": "curios",
+      "version": "forge",
+      "filename": "curios-forge.jar",
+      "url": "https://raw.githubusercontent.com/KuraOP/minecraftmods-upload/main/mods/curios-forge.jar"
+    },
+    {
+      "name": "framework",
+      "version": "forge",
+      "filename": "framework-forge.jar",
+      "url": "https://raw.githubusercontent.com/KuraOP/minecraftmods-upload/main/mods/framework-forge.jar"
+    },
+    {
+      "name": "backpacked",
+      "version": "forge",
+      "filename": "backpacked-forge.jar",
+      "url": "https://raw.githubusercontent.com/KuraOP/minecraftmods-upload/main/mods/backpacked-forge.jar"
+    },
+    {
+      "name": "worldedit",
+      "version": "mod",
+      "filename": "worldedit-mod.jar",
+      "url": "https://raw.githubusercontent.com/KuraOP/minecraftmods-upload/main/mods/worldedit-mod.jar"
+    },
+    {
+      "name": "Zeta",
+      "version": "1.0",
+      "filename": "Zeta-1.0.jar",
+      "url": "https://raw.githubusercontent.com/KuraOP/minecraftmods-upload/main/mods/Zeta-1.0.jar"
+    },
+    {
+      "name": "Quark",
+      "version": "4.0",
+      "filename": "Quark-4.0.jar",
+      "url": "https://raw.githubusercontent.com/KuraOP/minecraftmods-upload/main/mods/Quark-4.0.jar"
+    },
+    {
+      "name": "rubidium",
+      "version": "mc1.20.1",
+      "filename": "rubidium-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/KuraOP/minecraftmods-upload/main/mods/rubidium-mc1.20.1.jar"
+    },
+    {
+      "name": "oculus",
+      "version": "mc1.20.1",
+      "filename": "oculus-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/KuraOP/minecraftmods-upload/main/mods/oculus-mc1.20.1.jar"
+    },
+    {
+      "name": "Clumps",
+      "version": "forge",
+      "filename": "Clumps-forge.jar",
+      "url": "https://raw.githubusercontent.com/KuraOP/minecraftmods-upload/main/mods/Clumps-forge.jar"
+    },
+    {
+      "name": "AnvilNeverTooExpensive",
+      "version": "1.20.1",
+      "filename": "AnvilNeverTooExpensive-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/KuraOP/minecraftmods-upload/main/mods/AnvilNeverTooExpensive-1.20.1.jar"
+    },
+    {
+      "name": "createutilities",
+      "version": "0.3.0+1.20.1",
+      "filename": "createutilities-0.3.0+1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/KuraOP/minecraftmods-upload/main/mods/createutilities-0.3.0+1.20.1.jar"
+    },
+    {
+      "name": "createbigcannons",
+      "version": "5.6.0",
+      "filename": "createbigcannons-5.6.0.jar",
+      "url": "https://raw.githubusercontent.com/KuraOP/minecraftmods-upload/main/mods/createbigcannons-5.6.0.jar"
+    },
+    {
+      "name": "create_central_kitchen",
+      "version": "1.20.1",
+      "filename": "create_central_kitchen-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/KuraOP/minecraftmods-upload/main/mods/create_central_kitchen-1.20.1.jar"
+    },
+    {
+      "name": "farmersrespite",
+      "version": "1.20.1",
+      "filename": "farmersrespite-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/KuraOP/minecraftmods-upload/main/mods/farmersrespite-1.20.1.jar"
+    },
+    {
+      "name": "sliceanddice",
+      "version": "forge",
+      "filename": "sliceanddice-forge.jar",
+      "url": "https://raw.githubusercontent.com/KuraOP/minecraftmods-upload/main/mods/sliceanddice-forge.jar"
+    },
+    {
+      "name": "FarmersDelight",
+      "version": "1.20.1",
+      "filename": "FarmersDelight-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/KuraOP/minecraftmods-upload/main/mods/FarmersDelight-1.20.1.jar"
+    },
+    {
+      "name": "architectury",
+      "version": "9.2.14",
+      "filename": "architectury-9.2.14.jar",
+      "url": "https://raw.githubusercontent.com/KuraOP/minecraftmods-upload/main/mods/architectury-9.2.14.jar"
+    },
+    {
+      "name": "creategoggles",
+      "version": "1.20.1",
+      "filename": "creategoggles-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/KuraOP/minecraftmods-upload/main/mods/creategoggles-1.20.1.jar"
+    },
+    {
+      "name": "CreateNumismatics",
+      "version": "1.0.7+forge",
+      "filename": "CreateNumismatics-1.0.7+forge.jar",
+      "url": "https://raw.githubusercontent.com/KuraOP/minecraftmods-upload/main/mods/CreateNumismatics-1.0.7+forge.jar"
+    },
+    {
+      "name": "create_enchantment_industry",
+      "version": "1.20.1",
+      "filename": "create_enchantment_industry-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/KuraOP/minecraftmods-upload/main/mods/create_enchantment_industry-1.20.1.jar"
+    },
+    {
+      "name": "jei",
+      "version": "1.20.1",
+      "filename": "jei-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/KuraOP/minecraftmods-upload/main/mods/jei-1.20.1.jar"
+    },
+    {
+      "name": "create",
+      "version": "1.20.1",
+      "filename": "create-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/KuraOP/minecraftmods-upload/main/mods/create-1.20.1.jar"
+    },
+    {
+      "name": "TerraBlender",
+      "version": "forge",
+      "filename": "TerraBlender-forge.jar",
+      "url": "https://raw.githubusercontent.com/KuraOP/minecraftmods-upload/main/mods/TerraBlender-forge.jar"
+    },
+    {
+      "name": "BiomesOPlenty",
+      "version": "forge",
+      "filename": "BiomesOPlenty-forge.jar",
+      "url": "https://raw.githubusercontent.com/KuraOP/minecraftmods-upload/main/mods/BiomesOPlenty-forge.jar"
+    }
+  ]
 }
