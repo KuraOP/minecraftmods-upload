@@ -67,18 +67,6 @@
       "url": "https://raw.githubusercontent.com/KuraOP/minecraftmods-upload/main/mods/Quark-4.0.jar"
     },
     {
-      "name": "rubidium",
-      "version": "mc1.20.1",
-      "filename": "rubidium-mc1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/KuraOP/minecraftmods-upload/main/mods/rubidium-mc1.20.1.jar"
-    },
-    {
-      "name": "oculus",
-      "version": "mc1.20.1",
-      "filename": "oculus-mc1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/KuraOP/minecraftmods-upload/main/mods/oculus-mc1.20.1.jar"
-    },
-    {
       "name": "Clumps",
       "version": "forge",
       "filename": "Clumps-forge.jar",
