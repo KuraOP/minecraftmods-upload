@@ -215,6 +215,12 @@
       "version": "1.20.1",
       "filename": "extendedbonemeal-1.20.1.jar",
       "url": "https://raw.githubusercontent.com/KuraOP/minecraftmods-upload/main/mods/extendedbonemeal-1.20.1.jar"
+    },
+    {
+      "name": "collective",
+      "version": "1.20.1",
+      "filename": "collective-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/KuraOP/minecraftmods-upload/main/mods/collective-1.20.1.jar"
     }
   ]
 }
