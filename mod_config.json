@@ -209,6 +209,12 @@
       "version": "6.1.1+1.20.1",
       "filename": "Kambrik-6.1.1+1.20.1.jar",
       "url": "https://raw.githubusercontent.com/KuraOP/minecraftmods-upload/main/mods/Kambrik-6.1.1+1.20.1.jar"
+    },
+    {
+      "name": "extendedbonemeal",
+      "version": "1.20.1",
+      "filename": "extendedbonemeal-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/KuraOP/minecraftmods-upload/main/mods/extendedbonemeal-1.20.1.jar"
     }
   ]
 }
