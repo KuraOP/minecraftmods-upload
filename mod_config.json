@@ -73,12 +73,6 @@
       "url": "https://raw.githubusercontent.com/KuraOP/minecraftmods-upload/main/mods/Clumps-forge.jar"
     },
     {
-      "name": "AnvilNeverTooExpensive",
-      "version": "1.20.1",
-      "filename": "AnvilNeverTooExpensive-1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/KuraOP/minecraftmods-upload/main/mods/AnvilNeverTooExpensive-1.20.1.jar"
-    },
-    {
       "name": "createutilities",
       "version": "0.3.0+1.20.1",
       "filename": "createutilities-0.3.0+1.20.1.jar",
